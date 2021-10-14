@@ -67,7 +67,6 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-
 /* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
