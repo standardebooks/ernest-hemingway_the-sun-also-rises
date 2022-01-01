@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ernest-hemingway/the-sun-also-rises</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-01T22:38:55Z</dc:date>
+		<meta property="dcterms:modified">2022-01-01T22:38:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,7 +48,7 @@
 		<dc:description id="description">An American expatriate socializes in Paris and Spain as one of the Lost Generation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Sun Also Rises&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway’s&lt;/a&gt; first published novel, and the novel that introduced the term “Lost Generation” to describe the generation that came to adulthood during World War I.&lt;/p&gt;
-			&lt;p&gt;The novel follows Jake Barnes, an American expat living in the Parisian cafe society of the roaring 20s. A wound sustained during the war has left him unable to have sex, and that drives a wedge between him and the woman he loves: Brett Ashley, a twice-divorcee who has embraced the sexual freedom and independence of the age. As they drift through their lives in postwar Paris, they find themselves on a trip with some friends to Spain to witness the Festival of San Fermin, a week-long bacchanal whose highlight is bullfighting.&lt;/p&gt;
+			&lt;p&gt;The novel follows Jake Barnes, an American expat living in the Parisian café society of the roaring 20s. A wound sustained during the war has left him unable to have sex, and that drives a wedge between him and the woman he loves: Brett Ashley, a twice-divorcée who has embraced the sexual freedom and independence of the age. As they drift through their lives in postwar Paris, they find themselves on a trip with some friends to Spain to witness the Festival of San Fermin, a week-long bacchanal whose highlight is bullfighting.&lt;/p&gt;
 			&lt;p&gt;Hemingway explores the aimless, heavy drinking, and dramatic lives of Jake, Brett, and their friends as a means to reflect the Lost Generation as a whole. Jake is a character of troubled masculinity: his war wound has fundamentally changed him as a man, and his behavior is often tentative, unsure, and placating. On the other hand, Brett is an enigmatic New Woman: free to drink and carouse with the men, she is seductive, but aching for the reassurance and love of a real relationship, and not just sex. The satellites of friends that orbit around them are equally troubled, drinking to excess and fighting with themselves and with others.&lt;/p&gt;
 			&lt;p&gt;These complex characters are now mere spectators for the bullfight, a microcosm of war and death whose masters, the matadors, are the powerful and elegant emblems of masculinity that the Lost Generation finds it impossible to compete against.&lt;/p&gt;
 			&lt;p&gt;Though initially met with mixed reviews, modern critics consider it to be Hemingway’s best novel. The characters and events are largely based on real-life people in Hemingway’s social circle and his time spent in Paris and Spain. Thus, the book sold very well in its first print run, as the expatriate community was eager to read about the coded scandals of their peers. Today it is recognized as a foundational work of the modernist style, and an American classic.&lt;/p&gt;
@@ -56,8 +56,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20150622</dc:source>
 		<dc:source>https://archive.org/details/sun_also_rises</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">69808</meta>
+		<meta property="se:reading-ease.flesch">87.31</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sun_Also_Rises</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ernest-hemingway_the-sun-also-rises</meta>
 		<dc:creator id="author">Ernest Hemingway</dc:creator>
