@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20150622</dc:source>
 		<dc:source>https://archive.org/details/sun_also_rises</dc:source>
-		<meta property="se:word-count">69808</meta>
+		<meta property="se:word-count">69810</meta>
 		<meta property="se:reading-ease.flesch">87.31</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sun_Also_Rises</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ernest-hemingway_the-sun-also-rises</meta>
