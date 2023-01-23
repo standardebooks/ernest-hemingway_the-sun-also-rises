@@ -44,6 +44,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">45</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">53</meta>
 		<dc:description id="description">An American expatriate socializes in Paris and Spain as one of the Lost Generation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Sun Also Rises&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway’s&lt;/a&gt; first published novel, and the novel that introduced the term “Lost Generation” to describe the generation that came to adulthood during World War I.&lt;/p&gt;
