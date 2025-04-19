@@ -83,8 +83,8 @@
 		<dc:contributor id="transcriber-3">Paulina Chin</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Chin, Paulina</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreaders Canada Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreaders Canada Team, The</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
