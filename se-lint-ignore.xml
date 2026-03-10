@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-18.xhtml">
 		<ignore code="t-003">
+			<line>68</line>
 			<reason>Matched text is a continuation of dialog.</reason>
 		</ignore>
 	</file>
