@@ -49,7 +49,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">53</meta>
-		<dc:abstract>An American expatriate socializes in Paris and Spain as one of the Lost Generation.</dc:abstract>
+		<meta property="schema:abstract">An American expatriate socializes in Paris and Spain as one of the Lost Generation.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Sun Also Rises&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway’s&lt;/a&gt; first published novel, and the novel that introduced the term “Lost Generation” to describe the generation that came to adulthood during World War I.&lt;/p&gt;
 			&lt;p&gt;The novel follows Jake Barnes, an American expat living in the Parisian café society of the roaring 20s. A wound sustained during the war has left him unable to have sex, and that drives a wedge between him and the woman he loves: Brett Ashley, a twice-divorcée who has embraced the sexual freedom and independence of the age. As they drift through their lives in postwar Paris, they find themselves on a trip with some friends to Spain to witness the Festival of San Fermin, a week-long bacchanal whose highlight is bullfighting.&lt;/p&gt;
